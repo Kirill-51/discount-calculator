@@ -7,12 +7,12 @@
 На тестирование затрачено: 1 час
 
 В результате тестирования выявлены следующие дефекты:
-* https://----------------------------
+* [Компонент приложения отвечающий за суммирование скидки выдаёт неверный результат сложения скидок](https://github.com/Kirill-51/discount-calculator/issues/1#issue-823663969)
 
 ## Описание процесса тестирования
 
 В процессе тестирования использовались следующие артефакты:
-* [discount calculator](______________----______________)
+* [discount calculator](https://github.com/Kirill-51/discount-calculator/blob/master/src/Main.java)
 * [Домашнее задание к занятию «1.2. Программирование на Java: переменные, операторы, работа с отладчиком»](https://github.com/netology-code/javaqa-homeworks/tree/master/programming)
 
 
